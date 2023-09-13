@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/His/Him;
 - ⚡ Fun fact: One of the potential Silver Bullet of Software Engineering is the Great Designer;
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Si1verBul13tzxc&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Si1verBul13tzxc&layout=donut-vertical)](https://github.com/Si1verBul13tzxc/github-readme-stats)
 <!--
 **Si1verBul13tzxc/Si1verBul13tzxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
