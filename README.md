@@ -7,8 +7,10 @@
   
 <br />
 
--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Si1verBul13tzxc&theme=tokyonight)
--[![Github](https://img.shields.io/github/followers/Si1verBul13tzxc?label=Follow&style=social)](https://github.com/Si1verBul13tzxc)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Si1verBul13tzxc&theme=tokyonight)
+[![Github](https://img.shields.io/github/followers/Si1verBul13tzxc?label=Follow&style=social)](https://github.com/Si1verBul13tzxc)
+
+
 <!--
 **Si1verBul13tzxc/Si1verBul13tzxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
