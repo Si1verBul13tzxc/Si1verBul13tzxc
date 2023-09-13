@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there, I am Xincheng 👋
 
+- 🌱 I’m currently studying at Duke University towards a Master's degree on Computer Engineering
+- 📫 How to reach me: pabloz3141526@gmail.com
+- 😄 Pronouns: He/His/Him
+- ⚡ Fun fact: One of the potential silver bullet of Software Engineering is the Great Designer.
 <!--
 **Si1verBul13tzxc/Si1verBul13tzxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
