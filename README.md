@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying at Duke University towards a Master's degree on Computer Engineering;
 - 📫 How to reach me: pabloz3141526@gmail.com;
 - 😄 Pronouns: He/His/Him;
-- ⚡ Fun fact: One of the potential Silver Bullet of Software Engineering is the Great Designer;<br>
+- ⚡ Fun fact: One of the potential Silver Bullet of Software Engineering is the Great Designer;<br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Si1verBul13tzxc&layout=donut)
 
