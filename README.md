@@ -6,6 +6,7 @@
 - ⚡ Fun fact: One of the potential Silver Bullet of Software Engineering is the Great Designer;
   
 <br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Si1verBul13tzxc&layout=donut)]
 (https://github.com/anuraghazra/github-readme-stats)
 
