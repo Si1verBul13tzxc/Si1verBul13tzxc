@@ -1,7 +1,7 @@
 ### Hi there, I am Xincheng 👋
 
 - 🌱 I’m currently studying at Duke University towards a Master's degree on Computer Engineering
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> https://www.linkedin.com/in/si1verbul13tzxc/
+- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> https://www.linkedin.com/in/si1verbul13tzxc/
 - 📫 How to reach me: pabloz3141526@gmail.com
 - ⚡ Fun fact: One of the potential Silver Bullet of Software Engineering is the Great Designer
 
